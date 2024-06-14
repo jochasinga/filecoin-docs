@@ -22,10 +22,6 @@ description: >-
 
 [calibration.filutils.com](https://calibration.filutils.com/en)
 
-## Glif Explorer
-
-[explorer.glif.io](https://explorer.glif.io/?network=calibration)
-
 ## Starboard
 
 [fvm.starboard.ventures](https://fvm.starboard.ventures/)
